@@ -1,0 +1,18 @@
+2023-04-13 16:19:50.770 [info] Extension host with pid 325 started
+2023-04-13 16:19:50.854 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-13 16:19:50.932 [info] Lock '/home/yerko/.vscode-server/data/User/workspaceStorage/52c21efc5b9088e39f4913109ca686c0/vscode.lock': Lock acquired.
+2023-04-13 16:19:50.955 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-13 16:19:50.961 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-13 16:19:51.193 [info] Eager extensions activated
+2023-04-13 16:19:51.194 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-13 16:19:51.195 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-13 16:20:28.697 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-13 16:21:31.460 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-04-13 16:21:53.122 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-04-13 16:22:08.564 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-04-13 16:22:08.568 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-04-13 16:22:09.317 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-04-13 16:23:59.080 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-04-13 16:27:15.753 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-04-13 16:55:37.977 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1859
+2023-04-13 16:55:39.420 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1859

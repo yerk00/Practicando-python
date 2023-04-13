@@ -1,0 +1,50 @@
+2023-04-13 16:12:59.730 [info] 
+
+
+
+
+2023-04-13 16:12:59.828 [info] Extension host agent started.
+2023-04-13 16:13:00.126 [info] [127.0.0.1][7f5cb494][ManagementConnection] New connection established.
+2023-04-13 16:13:00.903 [info] [127.0.0.1][7b16d1e9][ExtensionHostConnection] New connection established.
+2023-04-13 16:13:01.034 [info] [127.0.0.1][7b16d1e9][ExtensionHostConnection] <237> Launched Extension Host Process.
+2023-04-13 16:19:48.449 [info] [127.0.0.1][8aee5925][ManagementConnection] New connection established.
+2023-04-13 16:19:49.784 [info] [127.0.0.1][8f14d414][ExtensionHostConnection] New connection established.
+2023-04-13 16:19:49.819 [info] [127.0.0.1][8f14d414][ExtensionHostConnection] <325> Launched Extension Host Process.
+2023-04-13 16:30:01.125 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-13 16:30:01.668 [info] Installing extension: ritwickdey.liveserver
+2023-04-13 16:30:10.418 [info] Extension signature is verified: ritwickdey.liveserver
+2023-04-13 16:30:26.919 [info] Extracted extension to /home/yerko/.vscode-server/extensions/.52ee45ae-e668-419f-81bb-04403ec80490: ritwickdey.liveserver
+2023-04-13 16:30:40.791 [info] Rename failed because of EACCES: permission denied, rename '/home/yerko/.vscode-server/extensions/.52ee45ae-e668-419f-81bb-04403ec80490' -> '/home/yerko/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location /home/yerko/.vscode-server/extensions/.52ee45ae-e668-419f-81bb-04403ec80490
+2023-04-13 16:30:40.799 [error] Error while installing the extension: ritwickdey.liveserver
+2023-04-13 16:30:40.802 [error] Failed to install extension. ritwickdey.liveserver
+2023-04-13 16:30:40.803 [error] EACCES: EACCES: permission denied, rename '/home/yerko/.vscode-server/extensions/.52ee45ae-e668-419f-81bb-04403ec80490' -> '/home/yerko/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at te.v (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:15667)
+    at async te.extractUserExtension (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:12729)
+    at async U.v (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:19428)
+    at async U.y (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:21040)
+    at async U.h (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:19003)
+2023-04-13 16:30:41.807 [error] EACCES: EACCES: permission denied, rename '/home/yerko/.vscode-server/extensions/.52ee45ae-e668-419f-81bb-04403ec80490' -> '/home/yerko/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at te.v (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:15667)
+    at async te.extractUserExtension (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:12729)
+    at async U.v (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:19428)
+    at async U.y (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:21040)
+    at async U.h (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:19003)
+2023-04-13 16:31:16.619 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-13 16:31:16.937 [info] Installing extension: ritwickdey.liveserver
+2023-04-13 16:31:24.234 [info] Extension signature is verified: ritwickdey.liveserver
+2023-04-13 16:31:39.141 [info] Extracted extension to /home/yerko/.vscode-server/extensions/.d08c451d-9934-4cdd-b245-f8f30c74041e: ritwickdey.liveserver
+2023-04-13 16:31:51.684 [info] Rename failed because of EACCES: permission denied, rename '/home/yerko/.vscode-server/extensions/.d08c451d-9934-4cdd-b245-f8f30c74041e' -> '/home/yerko/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'. Deleted from extracted location /home/yerko/.vscode-server/extensions/.d08c451d-9934-4cdd-b245-f8f30c74041e
+2023-04-13 16:31:51.690 [error] Error while installing the extension: ritwickdey.liveserver
+2023-04-13 16:31:51.695 [error] Failed to install extension. ritwickdey.liveserver
+2023-04-13 16:31:51.695 [error] EACCES: EACCES: permission denied, rename '/home/yerko/.vscode-server/extensions/.d08c451d-9934-4cdd-b245-f8f30c74041e' -> '/home/yerko/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at te.v (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:15667)
+    at async te.extractUserExtension (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:12729)
+    at async U.v (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:19428)
+    at async U.y (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:21040)
+    at async U.h (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:19003)
+2023-04-13 16:31:52.698 [error] EACCES: EACCES: permission denied, rename '/home/yerko/.vscode-server/extensions/.d08c451d-9934-4cdd-b245-f8f30c74041e' -> '/home/yerko/.vscode-server/extensions/ritwickdey.liveserver-5.7.9'
+    at te.v (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:15667)
+    at async te.extractUserExtension (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:12729)
+    at async U.v (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:19428)
+    at async U.y (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:21040)
+    at async U.h (/home/yerko/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/out/vs/server/node/server.main.js:153:19003)

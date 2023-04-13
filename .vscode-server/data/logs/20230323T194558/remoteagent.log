@@ -1,0 +1,11 @@
+2023-03-23 19:45:59.028 [info] 
+
+
+
+
+2023-03-23 19:45:59.028 [info] Extension host agent started.
+2023-03-23 19:45:59.139 [info] Started initializing default profile extensions in extensions installation folder. file:///home/yerko/.vscode-server/extensions
+2023-03-23 19:45:59.143 [info] [127.0.0.1][80f516d8][ManagementConnection] New connection established.
+2023-03-23 19:45:59.602 [info] [127.0.0.1][130353e6][ExtensionHostConnection] New connection established.
+2023-03-23 19:45:59.953 [info] [127.0.0.1][130353e6][ExtensionHostConnection] <208> Launched Extension Host Process.
+2023-03-23 19:46:00.691 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/yerko/.vscode-server/extensions
