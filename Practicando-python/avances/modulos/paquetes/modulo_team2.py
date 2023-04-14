@@ -1,0 +1,3 @@
+
+def equipo2(club):
+    return f'elsegundo mejor club del pais.{club}'                                                                                                                                                                                                                                                                                                                                                                                              
