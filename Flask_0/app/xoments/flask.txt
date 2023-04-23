@@ -1,0 +1,32 @@
+inicializar aplicacion
+archivo main
+ejecutar
+metodo rout(./) que es la ruta raiz
+para vistas se creann como funciones
+template documento html
+render template para devolver un template
+jinja para generar archivos html u otros tipos de documentos de texto plano 
+se pueden reutilizar sus plantillas
+
+Creacion de urls dinamicas a partir de varios usuarios
+request -> solicitud
+view func funcion de vista
+query strings
+redirecciones
+acciones antes de una peticion y despues  app.bfore_request , app.after_request´para realizar acciones antes de re
+realizar una una peticion o despues ara realizar acciones que deben ocurrir 
+antes de que se procese la solicitud, verificación de permisos , login ,etc
+
+Conectarse a la db dandonos parametros leer y convertir a json
+localhost
+user
+clave
+name de la db
+utilizar una variable que conecte la db
+jsonfy para convertir las tablas de la db a cadenas json
+fetchall recupera las consultas del db
+
+
+----------------------------------------------------------------------------
+jsonify objeto a json
+peticion PUT for update

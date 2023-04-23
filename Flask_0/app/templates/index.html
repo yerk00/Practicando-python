@@ -1,0 +1,17 @@
+
+{% extends './layout.html' %}
+
+ {% block title %}{{ data.titulo }}{% endblock %} <!--bloques que se reemplazaran  -->
+
+{% block body %}
+<h1>{{ data.welcome }}</h1>       <!--para acceder practicamente a los datos del diccionario -->
+{% if data.ncursos > 0 %}
+<ul>
+    {% for c in data.cursos %}
+    <li>{{ c }}</li>
+    {% endfor %}
+</ul>
+{% else %}
+<h2>No existe choco</h2>
+{% endif %}
+{% endblock %}
